@@ -6,3 +6,5 @@
 ###### Smallest!
 
 Now back to regular size text.
+
+![A red panda](https://en.wikipedia.org/wiki/Red_panda)
