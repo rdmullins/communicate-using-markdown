@@ -7,4 +7,4 @@
 
 Now back to regular size text.
 
-![A red panda](https://en.wikipedia.org/wiki/Red_panda)
+![A red panda](https://upload.wikimedia.org/wikipedia/commons/e/e6/Red_Panda_%2824986761703%29.jpg)
