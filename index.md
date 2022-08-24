@@ -14,3 +14,8 @@ Now back to regular size text (and a red panda!).
 ```
 
 That's how we could insert the red panda into an HTML page.
+
+- [x] Edit index.md to have headers
+- [x] Add an image
+- [x] Add a code block
+- [ ] Create a task list
